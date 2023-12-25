@@ -14,9 +14,7 @@ A simple implementation of the classic Tic Tac Toe game using HTML, CSS, and jQu
 
 ## Demo
 
-![Tic Tac Toe Demo](screenshot.png)
-
-[Live Demo](#your-live-demo-url)
+[Live Demo](https://rohanbasnet12.github.io/Tic-Tac-Toe-Game/)
 
 ## Features
 
