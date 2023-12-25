@@ -46,6 +46,7 @@ body {
     font-size: var(--F-SIZE);
     font-weight: 600;
     cursor: pointer;
+    position: relative;
 }
 
 .restart {
