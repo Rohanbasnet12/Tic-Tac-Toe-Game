@@ -20,6 +20,18 @@ body {
     scroll-behavior: smooth;
 }
 
+#main {
+    background: #282828;
+}
+
+.head {
+    padding-bottom: 2rem;
+    font-family: cursive;
+    font-size: 2.2rem;
+    font-weight: 400;
+    color: white;
+}
+
 /* STYLING CONTAINER */
 .container {
     width: 100%;
@@ -34,6 +46,9 @@ body {
 .game-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+
+    backdrop-filter: blur(100px);
+    color: white;
 }
 
 .box {
